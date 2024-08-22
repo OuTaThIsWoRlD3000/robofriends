@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/robofriends/static/css/main.d62ba5e7.css",
+    "main.js": "/robofriends/static/js/main.489c3d0a.js",
+    "static/js/453.eceb90f9.chunk.js": "/robofriends/static/js/453.eceb90f9.chunk.js",
+    "static/media/PaulistanaMaraba-Regular.woff": "/robofriends/static/media/PaulistanaMaraba-Regular.e3e7acb663704765428a.woff",
+    "index.html": "/robofriends/index.html",
+    "main.d62ba5e7.css.map": "/robofriends/static/css/main.d62ba5e7.css.map",
+    "main.489c3d0a.js.map": "/robofriends/static/js/main.489c3d0a.js.map",
+    "453.eceb90f9.chunk.js.map": "/robofriends/static/js/453.eceb90f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d62ba5e7.css",
+    "static/js/main.489c3d0a.js"
+  ]
+}
